@@ -21,7 +21,7 @@ Passionate about utilizing the power of technology to solve real-world problems,
 - Architected the database system using PostgreSQL paired with Hibernate ORM, enhancing data management and system reliability.
 - Integrated systematic JUnit testing and used GitHub for version control in an Agile development environment.
 
-[View Repository](#)
+[View Repository](https://github.com/orgs/McGill-ECSE223-W23/teams/group-8/repositories)
 
 ---
 
