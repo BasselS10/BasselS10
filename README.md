@@ -52,7 +52,7 @@ Passionate about utilizing the power of technology to solve real-world problems,
 - 👯 I’m looking to collaborate on new coding projects
 - 🤔 I’m looking for help with landing an internship for Summer 2025
 - 💬 Ask me about anything!
-- 📫 How to reach me: basselsharif@gmail.com
+- 📫 How to reach me: bassel.sharif@mail.mcgill.ca
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have been playing the piano for 15 years
 
